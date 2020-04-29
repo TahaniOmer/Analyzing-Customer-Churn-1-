@@ -44,6 +44,13 @@ The line in the middle of the plot represents the best estimate of the percent o
 Knowing how fast our customers churn is all well and good, but what we’re really interested in is understanding and analyzing churn.
 We will create different Kaplan-Meier survival curves for each gender, then the statistical significance of the differences can be tested in many ways, including the Log-Rank test, which we’ll apply below:
 
+
+![2](https://user-images.githubusercontent.com/58350018/80559834-8a878300-89a4-11ea-81e5-ee6f6737def2.png)
+
+
+![3](https://user-images.githubusercontent.com/58350018/80559840-8fe4cd80-89a4-11ea-998e-c652725a4aed.jpg)
+
+
  
  
 
