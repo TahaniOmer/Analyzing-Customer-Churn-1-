@@ -35,7 +35,7 @@ o	The event variable = a binary value indicating whether they’ve churned
 
 To do simple survival analysis using nonparametric Kaplan-meier estimators. We used survival fit function in R-studio. Then we summarized the survival fit and we plot it, where on the x-axis we have the time and the y-axis we have the survival probability. following is the plot:
 
-##### ![1](https://user-images.githubusercontent.com/58350018/80559264-9eca8080-89a2-11ea-9df9-715e2dd9db7a.png)
+![1](https://user-images.githubusercontent.com/58350018/80559264-9eca8080-89a2-11ea-9df9-715e2dd9db7a.png)
 
  
 The line in the middle of the plot represents the best estimate of the percent of customers surviving at each time interval. The dashed lines represent a 95% confidence interval. The confidence interval spreads out as we get closer to 365 days, since we have less and less customers with that much data to work with.
